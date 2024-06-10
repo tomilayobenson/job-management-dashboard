@@ -1,0 +1,41 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.browsejob {
+  min-height: 55vh;
+}
+
+
+.footer, small {
+  width: 100%;
+  background-color: black;
+  color: #fff;
+  height: 10vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.custom-modal-backdrop {
+  background-color: rgba(0, 0, 0, 0.5) !important; /* Adjust the alpha value to make it more or less transparent */
+}
+
+.custom-modal {
+  background-color: rgba(255, 255, 255, 0.9); /* Make the modal itself slightly transparent if desired */
+}
+
+.container-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 85vh;
+}
+
+.form-container {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
