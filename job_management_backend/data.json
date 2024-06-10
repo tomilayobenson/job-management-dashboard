@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "customerName": "John Lame",
+    "jobType": "Plumbing",
+    "status": "In Progress",
+    "appointmentDate": "2024-06-16T03:00:00.000Z",
+    "technician": "Jane Smith"
+  },
+  {
+    "id": 2,
+    "customerName": "Ruby Rabbit",
+    "jobType": "Counting",
+    "status": "In Progress",
+    "appointmentDate": "2024-06-02T21:00:00.000Z",
+    "technician": "Don Down"
+  },
+  {
+    "id": 3,
+    "customerName": "Patty Peacock",
+    "jobType": "Climbing",
+    "status": "Scheduled",
+    "technician": "Sunny Sun",
+    "appointmentDate": "2024-06-05T01:20:00.000Z"
+  }
+]
